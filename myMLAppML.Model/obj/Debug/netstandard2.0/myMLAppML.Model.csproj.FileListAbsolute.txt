@@ -1,0 +1,10 @@
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.deps.json
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.pdb
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfo.cs
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\Users\GET\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.pdb
